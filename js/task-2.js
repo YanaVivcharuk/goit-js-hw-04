@@ -14,7 +14,7 @@ console.log(
     { day: "thursday", calories: 2900 },
     { day: "friday", calories: 3450 },
     { day: "saturday", calories: 3280 },
-    { days: "sunday", calories: 3300 },
+    { day: "sunday", calories: 3300 },
   ])
 );
 
